@@ -89,7 +89,7 @@ mit. [license](./LICENSE)
 
 ## what's next
 
+- [ ] `npx localizer` or `brew install localizer`
 - [ ] chrome web store
 - [ ] firefox add-on
 - [ ] safari + ios
-- [ ] `npx localizer` or `brew install localizer`
