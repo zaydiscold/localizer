@@ -33,17 +33,17 @@ built this because i was on claude's status page and it said "resolved at 11:49 
 ## install
 
 ```bash
-npx localizer-ext
+npx localizer-ext                # npm
 ```
-
-or curl it:
-
+```bash
+bunx localizer-ext               # bun
+```
 ```bash
 curl -fsSL https://raw.githubusercontent.com/zaydiscold/localizer/master/install.sh | bash
 ```
-
-or clone it:
-
+```bash
+wget -qO- https://raw.githubusercontent.com/zaydiscold/localizer/master/install.sh | bash
+```
 ```bash
 git clone https://github.com/zaydiscold/localizer
 ```
@@ -101,7 +101,7 @@ mit. [license](./LICENSE)
 
 ## what's next
 
-- [x] `npx localizer-ext` + `curl` install
+- [x] `npx` / `bunx` / `curl` / `wget` / `git clone` install
 - [ ] chrome web store
 - [ ] firefox add-on
 - [ ] safari + ios
