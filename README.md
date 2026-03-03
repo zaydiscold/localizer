@@ -101,4 +101,11 @@ mit. [license](./LICENSE)
 
 ![footer](./assets/footer.svg)
 
-<sub>next: chrome web store · firefox · safari + ios</sub>
+<sub>
+
+- [x] npx / bunx / curl / wget / git clone install
+- [ ] chrome web store
+- [ ] firefox add-on
+- [ ] safari + ios
+
+</sub>
