@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="22" role="img" aria-label="javascript: vanilla">
+  <rect width="86" height="22" fill="#1a1a2e"/>
+  <rect x="86" width="65" height="22" fill="#B4A7D6"/>
+  <text x="43.0" y="15" text-anchor="middle" fill="#e8e8e8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11">javascript</text>
+  <text x="118.5" y="15" text-anchor="middle" fill="#101010" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11">vanilla</text>
+</svg>
