@@ -86,3 +86,10 @@ mit. [license](./LICENSE)
 <br>
 
 ![footer](./assets/footer.svg)
+
+## what's next
+
+- [ ] chrome web store
+- [ ] firefox add-on
+- [ ] safari + ios
+- [ ] `npx localizer` or `brew install localizer`
