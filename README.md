@@ -71,6 +71,12 @@ note: watches dynamic page updates now, so status dashboards that load late cont
 
 <sub>*EDT, CDT, MDT, PDT, AKST, AKDT, HST, AST, ADT, NST, NDT, CET, CEST, EET, EEST, WET, WEST, IST, JST, KST, AEST, AEDT, ACST, ACDT, AWST, NZST, NZDT. yes i looked up what all of these mean; none of them have cool magnetic anomalies like the Central African Republic. no i will not be retaining that information.</sub>
 
+<br>
+
+![·](./assets/stars4.svg)
+
+<br>
+
 ## updates
 
 no auto-update yet (unpacked extension). when you pull new changes:
@@ -81,7 +87,7 @@ no auto-update yet (unpacked extension). when you pull new changes:
 
 <br>
 
-![·](./assets/stars4.svg)
+![·](./assets/stars5.svg)
 
 <br>
 
@@ -93,15 +99,6 @@ mit. [license](./LICENSE)
 
 <br>
 
-![·](./assets/stars5.svg)
-
-<br>
-
 ![footer](./assets/footer.svg)
 
-## what's next
-
-- [x] `npx` / `bunx` / `curl` / `wget` / `git clone` install
-- [ ] chrome web store
-- [ ] firefox add-on
-- [ ] safari + ios
+<sub>next: chrome web store · firefox · safari + ios</sub>
