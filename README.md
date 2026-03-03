@@ -35,15 +35,27 @@ built this because i was on claude's status page and it said "resolved at 11:49 
 ```bash
 npx localizer-ext                # npm
 ```
+
+or
+
 ```bash
 bunx localizer-ext               # bun
 ```
+
+or
+
 ```bash
 curl -fsSL https://raw.githubusercontent.com/zaydiscold/localizer/master/install.sh | bash
 ```
+
+or
+
 ```bash
 wget -qO- https://raw.githubusercontent.com/zaydiscold/localizer/master/install.sh | bash
 ```
+
+or
+
 ```bash
 git clone https://github.com/zaydiscold/localizer
 ```
