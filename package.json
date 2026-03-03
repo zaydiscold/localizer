@@ -1,0 +1,33 @@
+{
+  "name": "localizer-ext",
+  "version": "1.11.0",
+  "description": "Converts timezone-labeled times on web pages to your local time.",
+  "author": "Zayd Khan <zaydkhan3@gmail.com> (https://zayd.wtf)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaydiscold/localizer"
+  },
+  "homepage": "https://github.com/zaydiscold/localizer",
+  "bin": {
+    "localizer": "./cli.js"
+  },
+  "keywords": [
+    "timezone",
+    "utc",
+    "chrome-extension",
+    "localizer",
+    "time-converter"
+  ],
+  "files": [
+    "cli.js",
+    "content.js",
+    "manifest.json",
+    "popup.html",
+    "popup.css",
+    "popup.js",
+    "icons/",
+    "install.sh",
+    "LICENSE"
+  ]
+}
