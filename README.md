@@ -97,13 +97,15 @@ then in chrome:
 
 ## usage
 
-it just runs. every page, automatically. catches UTC, GMT, EST, PST, CST, MST, and like 20 other timezone abbreviations*. handles `11:49 UTC`, `2:30 PM EST`, `2026-03-02 14:00 GMT`, all of it.
+it just runs. every page, automatically.
 
-click the extension icon in the toolbar for an on/off toggle. that's the whole settings page.
+handles `11:49 UTC`, `2:30 PM EST`, `2026-03-02 14:00 GMT`. catches 30+ timezone abbreviations. doesn't ask questions.
+
+toggle it on/off from the extension icon in the toolbar. that's the whole settings page.
 
 note: watches dynamic page updates now, so status dashboards that load late content should still convert.
 
-<sub>*EDT, CDT, MDT, PDT, AKST, AKDT, HST, AST, ADT, NST, NDT, CET, CEST, EET, EEST, WET, WEST, IST, JST, KST, AEST, AEDT, ACST, ACDT, AWST, NZST, NZDT. yes i looked up what all of these mean; none of them have cool magnetic anomalies like the Central African Republic.</sub>
+<sub>supported: UTC, GMT, EST, EDT, CST, CDT, MST, MDT, PST, PDT, AKST, AKDT, HST, AST, ADT, NST, NDT, CET, CEST, EET, EEST, WET, WEST, IST, JST, KST, AEST, AEDT, ACST, ACDT, AWST, NZST, NZDT. yes i looked up what all of these mean. none of them have cool magnetic anomalies like the Central African Republic.</sub>
 
 <br>
 <br>
@@ -155,15 +157,29 @@ no auto-update yet (unpacked extension). when you pull new changes:
 <br>
 <br>
 
+<p align="left"><strong>zayd / cold</strong></p>
+
 <p align="center">
-  <img src="./assets/footer.svg" alt="footer" />
+  <a href="https://zayd.wtf">zayd.wtf</a> · <a href="https://x.com/coldcooks">twitter</a> · <a href="https://github.com/zaydiscold">github</a>
+  <br>
+  <em>icarus only fell because he flew</em>
 </p>
 
-<p align="center"><sub>
+<p align="right">
+  <strong>to do</strong><br>
+  <sub>
+  ☑ npx / bunx / curl / wget / git clone install<br>
+  ☐ chrome web store<br>
+  ☐ firefox add-on<br>
+  ☐ safari + ios
+  </sub>
+</p>
 
-☑ npx / bunx / curl / wget / git clone install<br>
-☐ chrome web store<br>
-☐ firefox add-on<br>
-☐ safari + ios
+<br>
+<br>
+<br>
+<br>
 
-</sub></p>
+<p align="center">
+  <img src="./assets/wisps.svg" alt="" />
+</p>
