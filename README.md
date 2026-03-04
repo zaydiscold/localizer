@@ -1,23 +1,33 @@
-![localizer](./assets/banner.svg)
+<p align="center">
+  <img src="./assets/banner.svg" alt="localizer" />
+</p>
 
 <!-- add signature.svg to ./assets/ -->
 
-# localizer
+<h1 align="center">localizer</h1>
 
-chrome extension that converts timezone-labeled times on web pages to your local time.
+<p align="center">chrome extension that converts timezone-labeled times on web pages to your local time.</p>
 
-![javascript](https://img.shields.io/badge/javascript-vanilla-B4A7D6?style=flat-square&labelColor=1a1a2e)
-![version](https://img.shields.io/badge/version-1.11-5F9EA0?style=flat-square&labelColor=1a1a2e)
-![site](https://img.shields.io/badge/zayd.wtf-D4AF37?style=flat-square&labelColor=1a1a2e)
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-vanilla-B4A7D6?style=flat-square&labelColor=1a1a2e" alt="javascript" />
+  <img src="https://img.shields.io/badge/version-1.11-5F9EA0?style=flat-square&labelColor=1a1a2e" alt="version" />
+  <img src="https://img.shields.io/badge/zayd.wtf-D4AF37?style=flat-square&labelColor=1a1a2e" alt="site" />
+</p>
 
-[what it does](#what-it-does) | [install](#install) | [usage](#usage) | [updates](#updates)
+<p align="center">
+  <a href="#what-it-does">what it does</a> · <a href="#install">install</a> · <a href="#usage">usage</a> · <a href="#updates">updates</a>
+</p>
 
-![screenshot](./assets/screenshot.png)
+<p align="center">
+  <img src="./assets/screenshot.png" alt="screenshot" width="480" style="border-radius: 8px;" />
+</p>
 
 <br>
 <br>
 
-![·](./assets/stars1.svg)
+<p align="center">
+  <img src="./assets/stars1.svg" alt="·" />
+</p>
 
 <br>
 <br>
@@ -26,12 +36,14 @@ chrome extension that converts timezone-labeled times on web pages to your local
 
 localizer scans pages for times with timezone labels and quietly rewrites them to your local time. the page looks like it was always written for you.
 
-built this because i was on claude status page, "11:49 UTC." what the fuck is a UTC.also what tbe bell did those shows mean by 8/7 central who was this designed for. 
+built this because i was on claude status page, "11:49 UTC." what the fuck is a UTC. also what the hell did those shows mean by 8/7 central who was this designed for.
 
 <br>
 <br>
 
-![·](./assets/stars2.svg)
+<p align="center">
+  <img src="./assets/stars2.svg" alt="·" />
+</p>
 
 <br>
 <br>
@@ -76,7 +88,9 @@ then in chrome:
 <br>
 <br>
 
-![·](./assets/stars3.svg)
+<p align="center">
+  <img src="./assets/stars3.svg" alt="·" />
+</p>
 
 <br>
 <br>
@@ -94,7 +108,9 @@ note: watches dynamic page updates now, so status dashboards that load late cont
 <br>
 <br>
 
-![·](./assets/stars4.svg)
+<p align="center">
+  <img src="./assets/stars4.svg" alt="·" />
+</p>
 
 <br>
 <br>
@@ -110,30 +126,38 @@ no auto-update yet (unpacked extension). when you pull new changes:
 <br>
 <br>
 
-![·](./assets/stars5.svg)
+<p align="center">
+  <img src="./assets/stars5.svg" alt="·" />
+</p>
 
 <br>
 <br>
 
-<a href="https://star-history.com/#zaydiscold/localizer&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zaydiscold/localizer&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zaydiscold/localizer&type=Date" />
-    <img src="https://api.star-history.com/svg?repos=zaydiscold/localizer&type=Date&theme=dark" width="320" alt="star history chart" />
-  </picture>
-</a>
+<p align="center">
+  <a href="https://star-history.com/#zaydiscold/localizer&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zaydiscold/localizer&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zaydiscold/localizer&type=Date" />
+      <img src="https://api.star-history.com/svg?repos=zaydiscold/localizer&type=Date&theme=dark" width="320" alt="star history chart" />
+    </picture>
+  </a>
+</p>
 
 mit. [license](./LICENSE)
 
 <br>
 <br>
 
-![·](./assets/stars6.svg)
+<p align="center">
+  <img src="./assets/stars6.svg" alt="·" />
+</p>
 
 <br>
 <br>
 
-![footer](./assets/footer.svg)
+<p align="center">
+  <img src="./assets/footer.svg" alt="footer" />
+</p>
 
 <sub>
 
