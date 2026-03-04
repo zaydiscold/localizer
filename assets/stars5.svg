@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="96" viewBox="0 0 760 96">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="80" viewBox="0 0 800 80">
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#B4A7D6;stop-opacity:0.5" />
-      <stop offset="35%" style="stop-color:#8B9DC3;stop-opacity:0.45" />
-      <stop offset="65%" style="stop-color:#5F9EA0;stop-opacity:0.4" />
-      <stop offset="100%" style="stop-color:#D4AF37;stop-opacity:0.5" />
+      <stop offset="0%" style="stop-color:#c4b5ff;stop-opacity:0.6" />
+      <stop offset="30%" style="stop-color:#9b7dff;stop-opacity:0.5" />
+      <stop offset="60%" style="stop-color:#5F9EA0;stop-opacity:0.45" />
+      <stop offset="100%" style="stop-color:#D4AF37;stop-opacity:0.55" />
     </linearGradient>
   </defs>
-  <text fill="url(#g)" font-family="monospace" font-size="13" xml:space="preserve">
-    <tspan x="0" y="16">  ｡   ｡   ⋆   ∗   .    ˚    ˚ ･    · .   ｡  · ✦   .    ｡   ｡  ･  ∗ ✦    ✦   ｡ +  ˚   ✦ ∗   ˚   ° ･    ∗ ∗    *    ･   ⋆ </tspan>
-    <tspan x="0" y="32">  °    ∗ ｡    .  ･   .   *    *    ⋆  *    + .   .    ･ ⋆  *    .    ∗  °    *    · °  +    ∗   +  ° +    ⋆  . ⋆ +    ｡ </tspan>
-    <tspan x="0" y="48">    ∗ *  ･  ⋆   +   ✦ ｡    .  .  *  °  ⋆  ·  ･   * ･   ｡ * +    ∗    ⋆  ∗   °   ･ .    ｡  ･   *  ⋆    ✦  ｡   ｡   * ･   ·</tspan>
-    <tspan x="0" y="64">  *    ˚  ˚  °   °   · ⋆  °    ˚   ·   ✦    * ˚ ｡    ∗    ∗  ·   ･    *   ✦    ｡ . ⋆  +   °   °  · ｡   * ｡    ⋆    ·   ˚</tspan>
-    <tspan x="0" y="80">  ∗   *   ⋆   ･    ⋆  · *    ✦    ⋆ ✦   ･    ∗    °   ·   ･ ∗  ·    ˚   .   ⋆  * ∗   ∗   ˚ +    ·  °  °   ·   .   ⋆   ･ </tspan>
+  <text fill="url(#g)" font-family="monospace" font-size="16" font-weight="bold" xml:space="preserve">
+    <tspan x="-10" y="18"> ･ + ⋆  ✦   .  ∗ +    ｡ *    °   ｡ °  ✦ ･   ° .    ˚    ･ °    * ⋆  *  ∗   ˚   °    * ･  ˚    ·    ⋆    ˚    *   ˚   ･   ⋆  ･    *</tspan>
+    <tspan x="-10" y="36"> * ˚ ⋆  ｡ ✦   ･ ˚   ･    .   ✦   ⋆ ✦  +    · ⋆   *   ✦  ˚ ✦   .  ∗   ⋆   .  +    *  ･ *  ˚    °   +   ∗   ✦ .  + ･ ∗    ･    °    ˚</tspan>
+    <tspan x="-10" y="54">   · ⋆    *   ･    ｡   .  ˚ .  ∗  +   ∗   * °    +  ˚  ｡   *    .    .    *   ✦    ✦    ･    ∗ ˚ ⋆  ✦    ⋆ ˚ ·    ✦    ｡ ˚   ⋆  ⋆  *</tspan>
+    <tspan x="-10" y="72"> ｡  ⋆   ･  · +   ·  ✦  ･ +    °    ･   ･   +    *    °   ∗ ⋆ ∗    ° .   ∗ ･ ✦    ° °  ⋆    ｡  .    *   *  .  °    ｡  ⋆   ∗    ˚   ･</tspan>
   </text>
 </svg>

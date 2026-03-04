@@ -143,7 +143,7 @@ no auto-update yet (unpacked extension). when you pull new changes:
   </a>
 </p>
 
-mit. [license](./LICENSE)
+<p align="center">mit. <a href="./LICENSE">license</a></p>
 
 <br>
 <br>
@@ -159,11 +159,11 @@ mit. [license](./LICENSE)
   <img src="./assets/footer.svg" alt="footer" />
 </p>
 
-<sub>
+<p align="center"><sub>
 
-- [x] npx / bunx / curl / wget / git clone install
-- [ ] chrome web store
-- [ ] firefox add-on
-- [ ] safari + ios
+☑ npx / bunx / curl / wget / git clone install<br>
+☐ chrome web store<br>
+☐ firefox add-on<br>
+☐ safari + ios
 
-</sub>
+</sub></p>
