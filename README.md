@@ -26,7 +26,7 @@ chrome extension that converts timezone-labeled times on web pages to your local
 
 localizer scans pages for times with timezone labels and quietly rewrites them to your local time. the page looks like it was always written for you.
 
-built this because i was on claude's status page and it said "resolved at 11:49 UTC." what the fuck is a UTC.
+built this because i was on claude status page, "11:49 UTC." what the fuck is a UTC.also what tbe bell did those shows mean by 8/7 central who was this designed for. 
 
 <br>
 <br>
